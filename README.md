@@ -1,3 +1,3 @@
-# ndp-challenge-test1
+# Sprint 1
 
-Testing repository for the NDP Challenge
+Sprint 1 repository for the NDP Challenge
