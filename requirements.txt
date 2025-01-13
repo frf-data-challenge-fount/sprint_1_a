@@ -3,6 +3,7 @@ attrs
 Bottleneck
 branca
 Brotli
+cartopy
 certifi
 cffi
 charset-normalizer
